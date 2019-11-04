@@ -1,0 +1,14 @@
+/*globl transition css8*/
+
+/*fade*/
+.fade-enter-active {
+  transition: all 0.8s;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
+}
+
+
+
